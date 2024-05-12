@@ -1,4 +1,4 @@
-Built a  complete Dynamic Responsive Website against CORONA VIRUS using HTML, JavaScript, Bootstrap 4, PHP and MySQL.
+Built a  complete Dynamic Responsive Website against CORONA VIRUS using HTML, JavaScript, Bootstrap 4, PHP, MySQL, and API (www.covid19api.com).
 
 Here are the snippets- 
 
