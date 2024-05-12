@@ -337,7 +337,7 @@
 
 <footer class="mt-5">
 	<div class="footer_style text-white text-center container-fluid">
-		<p>copyright by ThapaTechnical</p>
+		<p>copyright by Anshika Jaiswal</p>
 	</div>
 </footer>
 
